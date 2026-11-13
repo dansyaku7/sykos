@@ -15,7 +15,7 @@ Supported: Windows 10 22H2, Windows 11 23H2, 24H2, 25H2.
 ## New in 2.0
 
 - **Live Activities**: camera, microphone, and screen recording dots with the app name; timer and stopwatch in the island; charging and low battery.
-- **Synced lyrics** for Spotify, Apple Music, and YouTube, and a progress bar you can drag.
+- **Synced lyrics** for Spotify, Apple Music, and YouTube, shown right in the island while a song plays (2.0.1), an equalizer that follows the beat, and a progress bar you can drag.
 - **Gaming overlay**: CPU, GPU, RAM, and temperatures over full-screen games in Gaming Mode.
 - **SYK Update**: SYK Island updates itself in one click from SYK Tools, without AME Wizard.
 - **HD app icons** on a tile that follows the island color, **arrow keys everywhere**, and a **welcome screen** after installing.
@@ -26,6 +26,8 @@ Supported: Windows 10 22H2, Windows 11 23H2, 24H2, 25H2.
 2. Drag `SYK-OS.apbx` into AME Wizard.
 3. Temporarily turn off Defender protection (required by every AME playbook).
 4. Pick your options and wait about 10 minutes. Windows restarts on its own.
+
+Already on 2.0.0? Update SYK Island to 2.0.1 from **SYK Tools → SYK Update** (no AME Wizard needed).
 
 To upgrade from an older SYK OS, load the new `.apbx`, choose **Yes** to overwrite, click **Upgrade**, then **Next**. Your SYK Island settings are kept. From 2.0 on, SYK Island also updates from SYK Tools → SYK Update.
 
