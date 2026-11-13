@@ -8,6 +8,8 @@ SYK Island and SYK Tools are in English by default; Bahasa Indonesia can be chos
 
 **[SYK-OS.apbx (latest)](https://github.com/dansyaku7/sykos/releases/latest/download/SYK-OS.apbx)** · [All releases](https://github.com/dansyaku7/sykos/releases) · [Previous version (1.3.0)](https://github.com/dansyaku7/sykos/releases/download/v1.3.0/SYK-OS.apbx)
 
+Only want SYK Island (island, dock, Start, SYK Tools) without changing Windows? Download **[SYKIsland.zip](https://github.com/dansyaku7/sykos/releases/latest/download/SYKIsland.zip)**, unzip, and run `SYKIsland.exe`.
+
 Supported: Windows 10 22H2, Windows 11 23H2, 24H2, 25H2.
 
 ## New in 2.0
@@ -16,7 +18,7 @@ Supported: Windows 10 22H2, Windows 11 23H2, 24H2, 25H2.
 - **Synced lyrics** for Spotify, Apple Music, and YouTube, and a progress bar you can drag.
 - **Gaming overlay**: CPU, GPU, RAM, and temperatures over full-screen games in Gaming Mode.
 - **SYK Update**: SYK Island updates itself in one click from SYK Tools, without AME Wizard.
-- **Arrow keys everywhere** and a **welcome screen** after installing.
+- **HD app icons** on a tile that follows the island color, **arrow keys everywhere**, and a **welcome screen** after installing.
 
 ## Install
 
